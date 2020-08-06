@@ -1,0 +1,198 @@
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@1,300&display=swap');
+
+*{
+    box-sizing:border-box;
+    padding:0;
+    margin:0;
+    max-width:100%;
+
+}
+   
+html{
+    font-size:62.5%;
+}
+
+body{
+    line-height:1.5;
+    font-size:1.5rem;
+    font-family:'Roboto Mono', monospace;
+}
+
+b{
+    content:text;
+    font-weight: bold;
+}
+
+#navigation{
+    margin: 0 auto;
+    width:100%;
+    text-align: center;
+    padding: 20px;
+    
+}
+
+
+
+nav a{
+    display:inline-block;    
+    margin:0 10%;
+    width:10%;
+    padding:10px;
+    border-radius: 12px;
+    font-size: 1.7rem;
+    text-decoration: none;
+}
+
+a.visit{
+    display:inline-block;
+    background-color:#FF764E ;
+    color:white;
+    
+}
+
+a.learn{
+    display:inline-block;
+    background-color:#5ED3EB;
+    color:white;
+   
+}
+
+a.involved{
+    display:inline-block;
+    background-color:#FFCD69 ;
+    color:white;
+    
+}
+
+
+#headerImg {
+    display:inline-block;
+    margin-top: 1%;
+}
+
+
+
+img[src="header_img.jpg"]{
+    display:inline-block;
+    height: 15%;
+    width:15%;
+    margin: 0 10%;
+    border-radius: 50%;
+}
+
+
+.move{
+    display: inline-block;
+    width: 50%;
+    padding-bottom: 15px;
+
+}
+
+h1{
+    display:inline-block;
+    font-family: 'Chelsea Market', cursive;
+    font-size:4rem;
+    letter-spacing: 5px;
+
+}
+
+.context{
+    text-align: center;
+    margin:0 5%;
+    background-color:#DDB9A3 ;
+    color:white;
+    padding: 10px;
+}
+
+img[src="https://image.flaticon.com/icons/svg/2979/2979348.svg"]{
+    height:100px;
+    margin: 0 auto;
+    width: 100%;
+    padding: 10px;
+}
+
+.fire{
+    width: 20%;
+    margin:0 auto;
+    text-align: center;
+    font-size: 1.1rem;
+
+}
+
+img[src="https://image.flaticon.com/icons/svg/820/820374.svg"]{
+    height:100px;
+    margin: 0 auto;
+    width: 100%;
+    padding: 10px;
+    padding-bottom: 30px;
+}
+
+.truck{
+    width: 20%;
+    margin:0 auto;
+    text-align: center;
+    font-size: 1.1rem;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+img[src="footer_img.jpg"]{
+    height: 250px;
+    object-fit: cover;
+    object-position: 50% 25%;
+    width: 100%;
+    
+}
+
+#foot{
+    margin: 0 auto;
+    width:100%;
+    text-align: center;
+    background-color: #F9E7DC;
+    
+}
+
+.pad{
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+footer a{
+    display:inline-block;    
+    margin:0 10%;
+    width:10%;
+    padding:10px;
+    border-radius: 12px;
+    font-size: 1.7rem;
+    text-decoration: none;
+}
+
+a.f1{
+    display:inline-block;
+    background-color:#FF764E ;
+    color:white;
+    text-align: center;
+    
+}
+
+a.f2{
+    display:inline-block;
+    background-color:#5ED3EB ;
+    color:white;
+    text-align: center;
+}
+
+a.f3{
+    display:inline-block;
+    background-color:#FFCD69 ;
+    color:white;
+    text-align: center;
+}
+
+
+
+
+
+
